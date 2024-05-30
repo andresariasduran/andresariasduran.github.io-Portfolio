@@ -8,7 +8,7 @@
 - B.S., Physics | Universidad del Valle (_Nov. 2009_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)*+
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
