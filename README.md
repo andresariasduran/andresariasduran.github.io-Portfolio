@@ -1,10 +1,10 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, MATLAB
+### Technical Skills: Python, SQL, MATLAB
 
 ## Education
-- Ph.D., Physics               | Universidad de Buenos Aires - Argentina (_April 2016_)								       		             		
-- Bachelor’s Degree in Physics | Universidad del Valle - Colombia        (_Nov. 2009_)
+- Ph.D., Physics | Universidad de Buenos Aires - Argentina (_April 2016_)								       		             		
+- Bachelor’s Degree in Physics | Universidad del Valle - Colombia (_Nov. 2009_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
