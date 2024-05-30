@@ -1,4 +1,4 @@
-# Andrés Arias Durán
+
 # Data Scientist
 
 #### Technical Skills: Python, SQL, MATLAB
