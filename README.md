@@ -1,4 +1,6 @@
-## Data Scientist
+# Data Science Portfolio - Andrés Arias Durán
+This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic and self-learning purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
+
 
 ### Technical Skills: Python, SQL, MATLAB
 
