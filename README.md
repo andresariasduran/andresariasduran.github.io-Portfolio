@@ -4,7 +4,7 @@
 
 ## Education
 - Ph.D., Physics | Universidad de Buenos Aires - Argentina (_April 2016_)								       		             		
-- Bachelor’s Degree in Physics | Universidad del Valle - Colombia (_Nov. 2009_)
+- Bachelor’s Degree in Physics | Universidad del Valle - Colombia (_November 2009_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
