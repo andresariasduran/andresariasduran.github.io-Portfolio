@@ -10,10 +10,10 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - Bachelor’s Degree in Physics | Universidad del Valle - Colombia (_November 2009_)
 
 ## Work Experience
-**Assistant Professor @ Universidad del Valle - Colombia (_June 2016 - December 2021)**
-***Detailed achievements:***
- -- Physics courses for engineering students. 
- -- Biophysics courses for Health Science students.
+**Assistant Professor @ Universidad del Valle - Colombia (_June 2016 - December 2021_)**
+**Detailed achievements:**
+- Physics courses for engineering students. 
+- Biophysics courses for Health Science students.
 
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
