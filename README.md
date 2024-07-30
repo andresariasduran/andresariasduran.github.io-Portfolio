@@ -18,7 +18,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 ### Applied-Data-Science-Capstone
-[Link](https://github.com/andresariasduran/Applied-Data-Science-Capstone)
+- [Link](https://github.com/andresariasduran/Applied-Data-Science-Capstone)
 
 SpaceX advertises Falcon 9 rocket launches on its website, costing $62 million; other vendors cost upwards of $165 million each, much of the savings being because SpaceX can reuse the first stage. So, if we can determine if the first stage will land, we can determine the cost of a launch. In this final project, we predicted if the Falcon 9 first stage will land successfully.
 
@@ -26,7 +26,7 @@ SpaceX advertises Falcon 9 rocket launches on its website, costing $62 million; 
 
 Today, 1.85 million different apps are available for users to download. Android users have even more from which to choose, with 2.56 million available through the Google Play Store. These apps have come to play a huge role in the way we live our lives today.
 
-[Link](https://github.com/andresariasduran/EDA_Google_Play_Store/tree/main)
+- [Link](https://github.com/andresariasduran/EDA_Google_Play_Store/tree/main)
 
 
 ## Talks & Lectures
