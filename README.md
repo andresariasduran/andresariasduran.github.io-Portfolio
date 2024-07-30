@@ -41,8 +41,8 @@ Today, 1.85 million different apps are available for users to download. Android 
 - Weeks of Welcome Poster Competition - UTD, Fall 2019
 - A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+
 
 ## Publications
 
-- [Data Science Blog](https://medium.com/@shawhin)
+- [Data Science Blog]
