@@ -16,10 +16,6 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - Conducted Biophysics courses for Health Science students.
 
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-
 ## Projects
 ### Applied-Data-Science-Capstone
 [Link](https://github.com/andresariasduran/Applied-Data-Science-Capstone)
