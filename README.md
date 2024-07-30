@@ -11,9 +11,9 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Work Experience
 **Assistant Professor @ Universidad del Valle - Colombia (_June 2016 - December 2021_)**
-**Detailed achievements:**
-- Physics courses for engineering students. 
-- Biophysics courses for Health Science students.
+Detailed achievements:
+- Conducted Physics courses for engineering students. 
+- Conducted Biophysics courses for Health Science students.
 
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
