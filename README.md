@@ -10,7 +10,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - Bachelor’s Degree in Physics | Universidad del Valle - Colombia (_November 2009_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+**Assistant Professor @ Universidad del Valle - Colombia (_June 2016 - December 2021)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
