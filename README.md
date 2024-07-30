@@ -22,7 +22,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 ### Applied-Data-Science-Capstone
-[Publication](https://github.com/andresariasduran/Applied-Data-Science-Capstone)
+[Link](https://github.com/andresariasduran/Applied-Data-Science-Capstone)
 
 SpaceX advertises Falcon 9 rocket launches on its website, costing $62 million; other vendors cost upwards of $165 million each, much of the savings being because SpaceX can reuse the first stage. So, if we can determine if the first stage will land, we can determine the cost of a launch. In this final project, we predicted if the Falcon 9 first stage will land successfully.
 
