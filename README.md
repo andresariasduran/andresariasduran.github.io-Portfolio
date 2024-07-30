@@ -19,10 +19,10 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### Applied-Data-Science-Capstone
 [Publication](https://github.com/andresariasduran/Applied-Data-Science-Capstone)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+SpaceX advertises Falcon 9 rocket launches on its website, costing $62 million; other vendors cost upwards of $165 million each, much of the savings being because SpaceX can reuse the first stage. So, if we can determine if the first stage will land, we can determine the cost of a launch. In this final project, we predicted if the Falcon 9 first stage will land successfully.
 
 
 
