@@ -9,6 +9,22 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - Ph.D., Physics | Universidad de Buenos Aires - Argentina (_April 2015_)								       		             		
 - Bachelor’s Degree in Physics | Universidad del Valle - Colombia (_November 2009_)
 
+## Certifications
+
+• IBM Data Science - Professional Certificate - (WEJB38NZSBFY)
+• Python Data Structures - Coursera (T8BQMG98DD6J)
+• Programming for Everybody (Getting Started with Python) - Coursera(C4J2S9X89AZH)
+• Tools for Data Science - Coursera (NWTEA285Z8CR)
+• Data Visualization with Python - Coursera (4CJE4CT4TVUB)
+• Databases and SQL for Data Science with Python - Coursera (WT5WEPCBJM57)
+• Data Analysis with Python - Coursera (DX9L9PE7B6NV)
+• Python for Data Science, AI and Development - Coursera (GK2E4F2LAR9N)
+• Applied Data Science Capstone - Coursera (SDY5PG4HQ2Y6)
+• Machine Learning with Python - Coursera (6CKLDWVA6PH5)
+• Python Project for Data Science - Coursera (7MVP8DHR632D)
+• Applied Data Science Capstone – Coursera
+• Data Science Methodology - Coursera
+
 ## Work Experience
 **Assistant Professor - Universidad del Valle - Colombia (_June 2016 - December 2021_)**
 
