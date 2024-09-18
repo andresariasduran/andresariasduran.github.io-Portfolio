@@ -3,11 +3,13 @@
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic and self-learning purposes. This portfolio also contains certificates, skills and Achievements. It is updated on the regular basis.
 
 
-### Technical Skills: Python | SQL | TABLEAU | Data manipulation (Pandas, Numpy) | 
+### Technical Skills: 
+
+Python | SQL | TABLEAU | Data manipulation (Pandas, Numpy) | 
 
 ## Education
-- Ph.D. Physics | Universidad de Buenos Aires | Argentina | (_April 2015_)								       		             		
-- Bachelor’s Degree in Physics | Universidad del Valle | Colombia | (_November 2009_)
+- Ph.D. Physics | Universidad de Buenos Aires | Argentina | (_April 2015_) |								       		             		
+- Bachelor’s Degree in Physics | Universidad del Valle | Colombia | (_November 2009_) |
 
 ## Certifications
 
