@@ -45,7 +45,8 @@ Today, 1.85 million different apps are available for users to download. Android 
 - [Link](https://github.com/andresariasduran/EDA_Google_Play_Store/tree/main)
 
 
-## Talks & Lectures
+## Talks & Lectures in Science
+
 - Poster Communication (Effect of Annealing Treatment on the Photocatalytic Activity of TiO2 Thin Films Deposited by Plasma dc Reactive Magnetron Sputtering) XXIII International Materials Research Congress 2014, August 17–21, Cancún; Mexico.
 - Poster Communication (Efecto de la Morfología superficial de Recubrimientos Catalizadores de Níquel Obtenidos por Arco Catódico en la Síntesis de
 Nanoestructuras de Carbono) International Congress of Science and Technology of Metallurgy and Materials, SAM - CONAMET 2013, August 20–23, Puerto Iguazu; Argentina.
@@ -55,7 +56,7 @@ Nanoestructuras de Carbono) International Congress of Science and Technology of 
 - Poster Communication (Fabricación y caracterización de películas delgadas de TiO2 por magnetrón sputtering) “XXIII Congreso Nacional de Fisica” Octubre 22 - 27 del 2009. Santa Marta, Colombia.
 
 
-## Publications
+## Publications in Science
 
 -  Proenca, C. A., Baldo, T. A., Freitas, T. A., Materon, E. M., Wong, A., Durán, A. A., M. E. Melendez, G. Zambrano Faria, R. C. (2019). Novel enzyme-free immunomagnetic microfluidic device based on (Co0.25Zn0.75Fe2O4) for cancer biomarker detection. Analytica chimica acta, 1071, 59-69.
 -  Torasso, N., Trupp, F., Arias Durán, A., D’Accorso, N., Grondona, D., Goyanes, S. (2019). Superhydrophobic plasma polymerized nanosponge with high oil sorption capacity. Plasma Processes and Polymers, 16(3), 1800158.
