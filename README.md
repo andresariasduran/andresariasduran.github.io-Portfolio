@@ -57,4 +57,16 @@ Today, 1.85 million different apps are available for users to download. Android 
 
 ## Publications
 
-- [Data Science Blog]
+Proenca, C. A., Baldo, T. A., Freitas, T. A., Materon, E. M., Wong, A., Durán, A. A., M. E. Melendez, G. Zambrano Faria, R. C. (2019). Novel enzyme-free immunomagnetic microfluidic device based on (Co0.25Zn0.75Fe2O4) for cancer biomarker detection. Analytica chimica acta, 1071, 59-69.
+{ Torasso, N., Trupp, F., Arias Durán, A., D’Accorso, N., Grondona, D., Goyanes, S. (2019). Superhydrophobic plasma polymerized nanosponge with high oil sorption capacity. Plasma Processes and Polymers, 16(3), 1800158.
+{ Iglesias, S. P., Arias-Durán, A., Yanez-Limón, J. M., Ramirez-Bon, R., Hurtado-Macias, A., Arnache, O., Zambrano, G. (2019). Effect of Zn Concentration on the Structure, Morphol- ogy and Magnetic Behavior of (Ni1−xZnxFe2O4) Ferrofluid. Journal of Superconductivity and Novel Magnetism, 32, 2199-2208.
+{ Arias, L. F., Durán, A. A., Cardona, D., Camps, E., Gómez, M. E., Zambrano, G. (2015, April). Effect of annealing treatment on the photocatalytic activity of TiO2 thin films deposited by dc reactive magnetron sputtering. In Journal of Physics: Conference Series
+(Vol. 614, No. 1, p. 012008). IOP Publishing.
+{ Durán, A. A., Bozzano, P., Grondona, D., Goyanes, S. (2015). Effect of Surface Morphol-
+ogy of Catalysts Nickel Coatings Obtained by Cathodic Arc in the Synthesis of Carbon
+Nanostructures. Procedia Materials Science, 8, 770-777.
+{ Arias-Durán, A., Giuliani, L., D’Accorso, N. B., Grondona, D., Goyanes, S. (2013). Thin
+films of polymerized acetylene by RF discharge and its benzene absorption ability. Surface
+and Coatings Technology, 216, 185-190.
+{ Felisberto, M., Arias-Durán, A., Ramos, J. A., Mondragon, I., Candal, R., Goyanes, S.,
+Rubiolo, G. H. (2012). Influence of filler alignment in the mechanical and electrical properties of carbon nanotubes/epoxy nanocomposites. Physica B: Condensed Matter, 407(16), 3181-3183.
