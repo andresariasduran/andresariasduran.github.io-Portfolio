@@ -46,13 +46,13 @@ Today, 1.85 million different apps are available for users to download. Android 
 
 
 ## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
+- Poster Communication (Effect of Annealing Treatment on the Photocatalytic Activity of TiO2 Thin Films Deposited by Plasma dc Reactive Magnetron Sputtering) XXIII International Materials Research Congress 2014, August 17–21, Cancún; Mexico.
+- Poster Communication (Efecto de la Morfología superficial de Recubrimientos Catalizadores de Níquel Obtenidos por Arco Catódico en la Síntesis de
+Nanoestructuras de Carbono) International Congress of Science and Technology of Metallurgy and Materials, SAM - CONAMET 2013, August 20–23, Puerto Iguazu; Argentina.
+- Poster communication (Efecto de la Rugosidad de Superficie de Sustrato y Catalizador en la Formación de Nanotubos de Carbono) 97a Reunión Nacional de la Asociación Física Argentina; septiembre 25 - 28, 2012.
+- Poster communication (Study of the Efficiency of Magnetic Island Macroparticle Filters for Different Vacuum Arc Configurations) “14th LAWPP” Noviembre 20-25, 2011, Mar del Plata, Argentina.
+- Poster communication (Structure, Composition and Optical Band Gap of TiO2 Films Prepared by d.c. Magnetron Sputtering) “2009 APS March Meeting” Marzo 16 - 20, Pittsburgh, Pennsylvania.
+- Poster Communication (Fabricación y caracterización de películas delgadas de TiO2 por magnetrón sputtering) “XXIII Congreso Nacional de Fisica” Octubre 22 - 27 del 2009. Santa Marta, Colombia.
 
 
 ## Publications
