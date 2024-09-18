@@ -28,8 +28,8 @@ Python | SQL | Data Visualization (Tableau, Matplotlib, Seaborn) | Data manipula
 ## Work Experience
 **Assistant Professor - Universidad del Valle - Colombia (_June 2016 - December 2021_)**
 
-- Conducted Physics courses for engineering students. 
-- Conducted Biophysics courses for Health Science students.
+- Conducted Physics courses for engineering students. In remote during 2020 - 2021 
+- Conducted Biophysics courses for Health Science students. In remote during 2020 - 2021 
 
 
 ## Projects
